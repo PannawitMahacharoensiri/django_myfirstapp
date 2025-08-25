@@ -109,6 +109,8 @@ TIME_ZONE = 'Asia/Bangkok'
 
 USE_I18N = True
 
+USE_L10N = True     # format dates, numbers according to locale
+
 USE_TZ = True
 
 
